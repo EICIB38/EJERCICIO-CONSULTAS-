@@ -1,0 +1,1 @@
+delete from tab_orden_compra where id_orden = '1008'

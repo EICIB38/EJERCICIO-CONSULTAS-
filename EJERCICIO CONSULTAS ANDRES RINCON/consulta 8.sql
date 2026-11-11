@@ -1,0 +1,1 @@
+select id_dpto, count (*) from tab_ciud group by id_dpto

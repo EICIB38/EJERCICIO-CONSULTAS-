@@ -1,0 +1,1 @@
+select * from tab_ciud LIMIT '10'

@@ -1,0 +1,1 @@
+SELECT * FROM tab_enc_compra WHERE fec_factura BETWEEN '2026-09-01' AND '2026-09-29' 

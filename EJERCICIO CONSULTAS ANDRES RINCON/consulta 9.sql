@@ -1,0 +1,1 @@
+INSERT INTO tab_areas (id_area,nom_area,nom_encarg) VALUES ('9','Auditoria','Elena beltran')
